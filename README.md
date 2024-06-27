@@ -4,9 +4,9 @@ A simple and interactive website to play a number guessing game.
 
 Table of contents:
 
-•	Demo
-•	Features/ Usage
-•	Credits
+1)	Demo
+2)	Features/ Usage
+3)	Credits
 
 
 ## Demo
